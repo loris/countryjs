@@ -47,6 +47,8 @@ describe('countryjs', function () {
       'thailande': 'Thailand',
       'U.S.A': 'United States',
       'THE GREAT BRITAIN': 'United Kingdom',
+      'England': 'United Kingdom',
+      'Angleterre': 'United Kingdom',
       ' Bosnia herzegovina ': 'Bosnia and Herzegovina'
     }
     Object.keys(searches).forEach(function (search) {
